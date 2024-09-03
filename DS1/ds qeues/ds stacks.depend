@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1554512685 source:c:\users\lenovo\downloads\documents\lab 2 ds\ds qeues\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<ctype.h>
+	<math.h>
+
